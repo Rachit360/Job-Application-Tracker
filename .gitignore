@@ -1,0 +1,13 @@
+# Ignore build files
+/build/
+# Ignore build directory
+/bin/
+# Ignore log files
+*.log
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
